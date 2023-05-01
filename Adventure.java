@@ -1,3 +1,5 @@
+package AdventureGame;
+
 import java.util.Scanner;
 //Gerado usando chat GPT conta Jeff.tm@outlook.com
 public class Adventure {
